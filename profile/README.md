@@ -1,5 +1,16 @@
+## Welcome to `embergershared` GitHub organization
 
-## Hi! I'm Emmanuel Bergerat
+### About this organization
+
+This organization is a place where I share code and projects I work on. It is a place where I share my passion for coding and innovation.
+
+Any customer or project specific identification have been removed from the code shared in these repositories.
+
+It is also used for active projects and collaborations with other developers.
+
+> Enjoy. Learn. Share.
+
+### About me (Emmanuel Bergerat)
 
 - I’m a hands-on App Innovation Technical Specialist at Microsoft who enjoys coding, learning & innovation with everything IT.
 - Current top skills are around:
