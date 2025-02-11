@@ -8,7 +8,7 @@ Any customer or project specific identification have been removed from the code 
 
 It is also used for active projects and collaborations with other developers.
 
-> Enjoy. Learn. Share.
+**Enjoy. Learn. Share.**
 
 ### About me (Emmanuel Bergerat)
 
